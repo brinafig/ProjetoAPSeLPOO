@@ -33,11 +33,13 @@ RNF001 – O sistema deve notificar o aluno quando notas forem postadas.
 
 RNF002 – O sistema deve notificar o aluno quando o status final estiver disponível.
 
-RNF003 – Apenas usuários cadastrados como professores podem criar, atualizar ou excluir dados acadêmicos.
+RNF003 – Apenas usuários cadastrados como administradores ou professores podem criar, atualizar ou excluir dados acadêmicos.
 
-RNF004 – O tempo de resposta do sistema deve ser inferior a 3 segundos para qualquer operação.
+RFN004- Apenas usuários cadastrados como administradores podem cadastrar disciplinas e vincular alunos e professores às disciplinas.
 
-RNF005 – O sistema deve estar disponível para acesso durante o período letivo.
+RNF005 – O tempo de resposta do sistema deve ser inferior a 3 segundos para qualquer operação.
+
+RNF006 – O sistema deve estar disponível para acesso durante o período letivo.
 
 ### Regras de Negócio
 RNE001 – A média mínima para aprovação é 6,0. Alunos com média igual ou superior a 6,0 serão considerados aprovados. Alunos com média inferior a 6,0 ficarão em recuperação.
