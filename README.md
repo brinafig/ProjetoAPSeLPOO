@@ -47,3 +47,28 @@ RNE001 – A média mínima para aprovação é 6,0. Alunos com média igual ou 
 RNE002 – Alunos em recuperação terão direito a realizar uma avaliação de recuperação. A média mínima para aprovação após a recuperação também será 6,0. Alunos com média inferior a 6,0 após a recuperação serão considerados reprovados.
 
 RNE003 – O aluno deve possuir frequência mínima de 75% para aprovação na disciplina.
+
+## Diagrama de Caso de Uso
+<img width="700" height="720" alt="image" src="https://github.com/user-attachments/assets/380b1ac6-bce3-4f75-a73c-0851bc8a2bd1" />
+
+### Documentação do Caso de Uso
+<img width="542" height="842" alt="image" src="https://github.com/user-attachments/assets/9789d63e-06cb-456b-b76e-00d74e781401" />
+
+
+<img width="545" height="754" alt="image" src="https://github.com/user-attachments/assets/23cb4a16-46cc-4115-ae63-c531ce540191" />
+
+
+<img width="553" height="546" alt="image" src="https://github.com/user-attachments/assets/761e8d37-7079-47c6-a60a-f846438b54c1" />
+
+
+<img width="562" height="844" alt="image" src="https://github.com/user-attachments/assets/20a262f6-e54a-4d8a-ac8c-d6204016ac2a" />
+
+
+<img width="549" height="418" alt="image" src="https://github.com/user-attachments/assets/b752d31d-4b81-424a-bbc1-308884cd0efc" />
+
+
+
+
+
+
+
