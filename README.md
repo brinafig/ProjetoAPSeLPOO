@@ -49,23 +49,26 @@ RNE002 – Alunos em recuperação terão direito a realizar uma avaliação de 
 RNE003 – O aluno deve possuir frequência mínima de 75% para aprovação na disciplina.
 
 ## Diagrama de Caso de Uso
+<div align="center">
 <img width="700" height="720" alt="image" src="https://github.com/user-attachments/assets/380b1ac6-bce3-4f75-a73c-0851bc8a2bd1" />
+</div>
 
 ### Documentação do Caso de Uso
-<img width="542" height="842" alt="image" src="https://github.com/user-attachments/assets/9789d63e-06cb-456b-b76e-00d74e781401" />
-
-
-<img width="545" height="754" alt="image" src="https://github.com/user-attachments/assets/23cb4a16-46cc-4115-ae63-c531ce540191" />
-
-
-<img width="553" height="546" alt="image" src="https://github.com/user-attachments/assets/761e8d37-7079-47c6-a60a-f846438b54c1" />
-
-
-<img width="562" height="844" alt="image" src="https://github.com/user-attachments/assets/20a262f6-e54a-4d8a-ac8c-d6204016ac2a" />
-
-
+<div align="center">
+<img width="542" height="842" alt="image" src="https://github.com/user-attachments/assets/9789d63e-06cb-456b-b76e-00d74e781401" /> <br><br>
+</div>
+<div align="center">
+<img width="545" height="754" alt="image" src="https://github.com/user-attachments/assets/23cb4a16-46cc-4115-ae63-c531ce540191" /> <br><br>
+</div>
+<div align="center">
+<img width="553" height="546" alt="image" src="https://github.com/user-attachments/assets/761e8d37-7079-47c6-a60a-f846438b54c1" /><br><br>
+</div>
+<div align="center">
+<img width="562" height="844" alt="image" src="https://github.com/user-attachments/assets/20a262f6-e54a-4d8a-ac8c-d6204016ac2a" /><br><br>
+</div>
+<div align="center">
 <img width="549" height="418" alt="image" src="https://github.com/user-attachments/assets/b752d31d-4b81-424a-bbc1-308884cd0efc" />
-
+</div>
 
 
 
