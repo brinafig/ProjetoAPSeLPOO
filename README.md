@@ -70,6 +70,10 @@ RNE003 – O aluno deve possuir frequência mínima de 75% para aprovação na d
 <img width="549" height="418" alt="image" src="https://github.com/user-attachments/assets/b752d31d-4b81-424a-bbc1-308884cd0efc" />
 </div>
 
+## Diagrama de Classes
+<div align="center">
+<img width="658" height="764" alt="image" src="https://github.com/user-attachments/assets/63e221fc-7a72-4455-9993-1377a7489b79" />
+</div>
 
 
 
