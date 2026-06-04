@@ -50,7 +50,7 @@ RNE003 – O aluno deve possuir frequência mínima de 75% para aprovação na d
 
 ## Diagrama de Caso de Uso
 <div align="center">
-<img width="700" height="720" alt="image" src="https://github.com/user-attachments/assets/380b1ac6-bce3-4f75-a73c-0851bc8a2bd1" />
+<img width="638" height="617" alt="image" src="https://github.com/user-attachments/assets/bab4d898-1974-46d9-88e9-cbeabc0e0bb8" />
 </div>
 
 ### Documentação do Caso de Uso
