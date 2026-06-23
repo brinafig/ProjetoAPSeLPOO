@@ -50,9 +50,12 @@ O desenvolvimento da modelagem ajudou a compreender melhor a estrutura do sistem
 
 Como melhorias futuras, o sistema pode ser expandido com novas funcionalidades e refinamentos. Por exemplo, abranger a segurança do sistema, criando uma obrigatoriedade de incluir senha e login para acessar o perfil e mostrar notas. 
 
+Já em relação a implementação, foram encontradas muitas dificuldades. Um grande desafio foram as pastas Dao e View. Integrar a View com o DAO sem acoplar o código gerou problemas. Construir telas dinâmicas, como a de Registro de Notas, onde a seleção de uma matrícula dispara um evento para consultar o DAO e popular automaticamente o menu de avaliações daquela disciplina, demandou muito tempo.
+
 ### Declaração de uso de IA
 
-ChatGPT: Utilizado para revisar os diagramas e detectar falhas ou melhorias.
+ChatGPT: Utilizado para revisar os diagramas e detectar falhas ou melhorias. Como a sugestão da criação da classe matrícula.
+Gemini: Utilizado majoritariamente para debugging. Consulta de sintaxe e estruturação de componentes visuais utilizando a biblioteca Tkinter (como a formatação de Treeviews). Sugestões pontuais para manter o código limpo e alinhado aos padrões da arquitetura MVC (separação estrita entre View, Model e DAO).
 
 
 
