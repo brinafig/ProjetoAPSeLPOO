@@ -1,8 +1,7 @@
 class Avaliacao:
-    def __init__(self, nome, peso, nota):
+    def __init__(self, nome, peso, data="", disciplina_id=None, id=None):
+        self.id = id
+        self.disciplina_id = disciplina_id
         self.nome = nome
         self.peso = peso
-        self.nota = nota
-
-    def exibir_dados(self):
-        return f"{self.nome}: Peso = {self.peso}, Nota = {self.nota}"
+        self.data = data
