@@ -24,7 +24,7 @@ class MenuPrincipal:
         menu_admin.add_command(label="Disciplinas", command=self.abrir_disciplinas)
         menu_admin.add_separator()
         menu_admin.add_command(label="Matrículas", command=self.abrir_matriculas)
-        menu_admin.add_command(label="Criar Avaliações (Estrutura)", command=self.abrir_avaliacoes)
+        menu_admin.add_command(label="Criar Avaliações", command=self.abrir_avaliacoes)
         menu_admin.add_command(label="Registrar Notas dos Alunos", command=self.abrir_notas)
         menu_admin.add_command(label="Fechamento de Boletim", command=self.abrir_boletim)
         barra.add_cascade(label="Administração/Professores", menu=menu_admin)
