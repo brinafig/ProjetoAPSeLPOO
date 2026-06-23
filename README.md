@@ -25,5 +25,7 @@ Como melhorias futuras, o sistema pode ser expandido com novas funcionalidades e
 
 ### Declaração de uso de IA
 
+ChatGPT: Utilizado para revisar os diagramas e detectar falhas ou melhorias.
+
 
 
