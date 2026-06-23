@@ -22,3 +22,4 @@ class Pessoa(ABC):
 
     def __str__(self):
         return self.exibir_dados()
+
