@@ -65,5 +65,5 @@ class MenuPrincipal:
         PortalAlunoView()
 
     def mostrar_sobre(self):
-        texto = "Gerenciador Acadêmico.\nImplementa UC01 ao UC05 e Diagrama de Objetos."
+        texto = "Autora: Sabrina Figueiredo. \nGerenciador Acadêmico.\nSistema para gerenciar disciplinas, matricular alunos, cadastrar professores, avaliações e notas. Ao final do semestre o sistema calcula a média final e a frequência e mostra o status do aluno."
         messagebox.showinfo("Sobre", texto)
