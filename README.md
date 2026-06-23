@@ -17,7 +17,7 @@ Além disso, o sistema realizará o cálculo da média final dos alunos, exibir�
 ## Instruções de execução
 O sistema é dividido em duas áreas principais: o painel de Administração/Professores e o Portal do Aluno. 
 
-1. Cadastros Iniciais (Administração)
+1. Cadastros Iniciais 
 
 No menu superior, acesse Administração/Professores > "Professores" para cadastrar os docentes. Acesse "Alunos" para registrar os estudantes. É necessário informar Nome, Matrícula e E-mail (o e-mail será usado para envio do boletim). Acesse "Disciplinas" para criar as matérias. Você precisará vincular o professor responsável.
 
@@ -25,11 +25,11 @@ No menu superior, acesse Administração/Professores > "Professores" para cadast
 
 Vá em Administração/Professores > Matrículas. Selecione um Aluno e uma Disciplina para criar o vínculo entre eles no sistema.
 
-3. Criação de Avaliações (Professores)
+3. Criação de Avaliações 
 
 Acesse Criar Avaliações. Selecione a disciplina desejada e crie as avaliações.
 
-4. Lançamento de Notas (Professores)
+4. Lançamento de Notas 
 
 Acesse Registrar Notas dos Alunos. Selecione a matrícula do aluno. O sistema carregará automaticamente as avaliações pendentes daquela disciplina. Digite a nota obtida pelo aluno e clique em Salvar.
 
