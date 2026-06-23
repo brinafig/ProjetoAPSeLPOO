@@ -2,14 +2,13 @@ from .Status import Status
 
 class Disciplina:
 
-    def __init__(self, nome, professor):
+    def __init__(self, nome, professor, total_aulas=0, id=None):
+        self.id = id
         self.nome = nome
         self.professor = professor
+        self.total_aulas = total_aulas
         self.avaliacoes = []
         self.observadores = []
-        self.media_final = None
-        self.status = None
-        self.reavaliacao = None
 
     def registrar_observador(self, obs):
         self.observadores.append(obs)
@@ -67,3 +66,4 @@ class Disciplina:
             txt += f"\nStatus: {self.status.value}"
 
         return txt
+
